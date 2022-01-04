@@ -95,6 +95,7 @@ Tabla 4.1. Medición de voltaje aplicando superposición.
 ![image](https://user-images.githubusercontent.com/94026628/147961974-3948c876-20a1-4afc-93b8-dcae61ff3865.png)
 
 4.VIDEO
+https://youtu.be/kU-JOhrw8Pw 
 
 5.CONCLUSIONES
 
