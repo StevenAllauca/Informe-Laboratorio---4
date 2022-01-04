@@ -44,6 +44,31 @@ Material y Equipo Requerido
 
 ![image](https://user-images.githubusercontent.com/94026628/147961815-318a0a08-7b4a-478e-a4fd-0ee66a035e16.png)
 
+Medicion de voltaje
+
+![image](https://user-images.githubusercontent.com/94026628/148079302-bc73264c-ac1c-430f-b70f-c41dc84308ec.png)
+
+Medicion de corriente
+
+![image](https://user-images.githubusercontent.com/94026628/148079369-203adfbc-b3fb-43ee-8591-d9769189afd9.png)
+
+Medición de voltaje suprimiendo fuente de 12 V:
+
+![image](https://user-images.githubusercontent.com/94026628/148079445-557ec61e-671b-4dd5-ade5-3738d2e978c3.png)
+
+Medición de corriente suprimiendo fuente de 12 V:
+
+![image](https://user-images.githubusercontent.com/94026628/148079507-d510bcde-4c8e-4dc5-abfc-6ce57c4cf3b2.png)
+
+Medición de voltaje suprimiendo fuente de 20 V:
+
+![image](https://user-images.githubusercontent.com/94026628/148079554-b4573c87-351e-41ed-80b9-de9452f67680.png)
+
+Medición de corriente suprimiendo fuente de 20 V:
+
+![image](https://user-images.githubusercontent.com/94026628/148079604-c937cbb0-abbd-47db-947c-e801e048258a.png)
+
+
 3.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 3.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
