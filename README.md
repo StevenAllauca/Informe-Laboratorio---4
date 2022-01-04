@@ -1,5 +1,6 @@
 # Informe-Laboratorio-4
-Steven Allauca
+
+
 Universidad de las Fuerzas Armadas Espe
 
 Asignatura: Fundamentos de Circuitos Eléctricos
